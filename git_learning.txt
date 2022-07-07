@@ -1,1 +1,4 @@
-Hello I am learning some basic unit command
+Hello I am learning some basic unix commands
+Hello some more text added
+
+Hello today is thursday today I am going to learn more git. 
